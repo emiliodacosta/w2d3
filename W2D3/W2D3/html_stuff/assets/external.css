@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1a1a1a;
+  color: #cacaca;
+}
+
+h1 {
+  color: red;
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.ingredients-list {
+  list-style: square;
+}
+
+ol {
+  list-style: armenian;
+}
+
+header > img{
+  width: 100px;
+}
+
+ul a {
+  text-decoration:line-through;
+  color: inherit;
+}
+
+.user_review {
+  padding: 10px ;
+  color: pink;
+}
